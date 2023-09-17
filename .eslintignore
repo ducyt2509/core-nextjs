@@ -1,0 +1,10 @@
+package.json
+package-lock.json
+tsconfig.json
+src/styles/*
+next-env.d.ts
+public/*
+src/assets/*
+*.json
+*.scss
+*.d.ts
